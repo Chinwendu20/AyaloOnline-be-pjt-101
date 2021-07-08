@@ -62,3 +62,19 @@ http://ayalo-auth-api.herokuapp.com/swagger/
 
 
 http://ayalo-auth-api.herokuapp.com/doc/
+
+## TEAM MEMBERS AND INDIVIDUAL CONTRIBUTIONS
+
+GitHub username: MickeyLannister17,
+Slack username: Lannister
+
+- I setup the repo and installed some of its dependencies. 
+- I also created the product listing API.
+
+Slack username: clefcodex,
+GitHub username: clefcodex
+
+- Created the README
+- The API end point for recently added
+- The API end point for Best offer 
+- Web scrapping scripts to populate the Agricultural sector of the database.
